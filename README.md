@@ -1,2 +1,3 @@
-# continy-boilerplate
-Continy boilerplate setup
+# Boilerplate
+
+Template for Bojaghi project.
