@@ -1,3 +1,3 @@
-# Continy Boilerplate
+# Boilerplate
 
-Template for continy project.
+Template for Bojaghi project.
