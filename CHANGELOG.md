@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.0.3
+
+Add code arrangement rule.
+
 ## 1.0.2
 
 Update code style.
