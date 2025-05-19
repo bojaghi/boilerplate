@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.0.4
+
+- Update code style
+- Add editorconfig
+
 ## 1.0.3
 
 Add code arrangement rule.
