@@ -8,3 +8,6 @@
 /tests/wp-test-core
 /tests/wp-test-lib
 /vendor
+
+composer.lock
+

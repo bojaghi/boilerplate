@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.0.6
+
+- Update composer.json
+- Update .gitignore
+
 ## 1.0.5
 
 - Update code style
