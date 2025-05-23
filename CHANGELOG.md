@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.0.7
+
+- Update code style
+
 ## 1.0.6
 
 - Update composer.json

@@ -18,6 +18,8 @@
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="ALIGN_MATCH_ARM_BODIES" value="true" />
@@ -26,6 +28,11 @@
     <option name="COMMA_AFTER_LAST_CLOSURE_USE_VAR" value="true" />
     <option name="COMMA_AFTER_LAST_ARGUMENT" value="true" />
     <option name="COMMA_AFTER_LAST_MATCH_ARM" value="true" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="THROWS_WEIGHT" value="3" />
+    <option name="USES_WEIGHT" value="2" />
+    <option name="EXAMPLE_WEIGHT" value="4" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
