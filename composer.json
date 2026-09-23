@@ -41,7 +41,7 @@
         "Bojaghi\\Boilerplate\\": "inc/"
       },
       "autoload-dev": {
-        "Bojaghi\\Boilerplate\\": "tests/"
+        "Bojaghi\\Boilerplate\\Tests\\": "tests/"
       },
       "inject": true
     }
