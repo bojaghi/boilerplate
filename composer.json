@@ -38,10 +38,10 @@
   "extra": {
     "wordpress-autoloader": {
       "autoload": {
-        "Bojaghi\\Boilerplace\\": "inc/"
+        "Bojaghi\\Boilerplate\\": "inc/"
       },
       "autoload-dev": {
-        "Bojaghi\\Boilerplace\\": "tests/"
+        "Bojaghi\\Boilerplate\\": "tests/"
       },
       "inject": true
     }
