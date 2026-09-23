@@ -1,3 +1,3 @@
 # Boilerplate
 
-Template for Bojaghi project.
+보자기 프로젝트를 새로 생성하기 위한 기본 템플릿입니다.
