@@ -15,4 +15,9 @@
             <!--<exclude>./tests/sample-test.php</exclude>-->
         </testsuite>
     </testsuites>
+    <!--
+    <php>
+        <env name="WP_TESTS_PHPUNIT_POLYFILLS_PATH" value="./vendor/yoast/phpunit-polyfills"/>
+    </php>
+    -->
 </phpunit>

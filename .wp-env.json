@@ -7,5 +7,7 @@
     "wp-content/boilerplate": "."
   },
   "config": {
-  }
+    "WP_DEBUG": true
+  },
+  "mysqlPort": 32768
 }
